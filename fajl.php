@@ -1,0 +1,3 @@
+function some(){
+  echo "nestp";
+}
