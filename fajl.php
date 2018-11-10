@@ -1,3 +1,3 @@
 function some(){
-  echo "nestp";
+  echo "Promenjena recenica.";
 }
