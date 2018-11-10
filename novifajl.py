@@ -1,1 +1,3 @@
-PAJTONCINA
+
+def main()
+  PAJTONCINA
